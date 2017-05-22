@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='terminalchatrobot',
-    version='0.1.0',
+    name='terminal-chat-robot',
+    version='0.1.5',
     keywords=('terminal', 'chat', 'robot'),
     description='It is a terminal robot which can chat with you.',
     classifiers=[
@@ -22,7 +22,7 @@ setup(
 
     entry_points={
         'console_scripts': [
-            'terminalchatrobot = terminalchatrobot.terminalchatrobot:main'
+            'terminal-chat-robot = main.main:main'
         ]
     },
 

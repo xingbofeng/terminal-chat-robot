@@ -1,0 +1,3 @@
+[console_scripts]
+terminal-chat-robot = main.main:main
+

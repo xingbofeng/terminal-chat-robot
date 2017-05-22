@@ -1,9 +1,0 @@
-setup.py
-terminalchatrobot/__init__.py
-terminalchatrobot/terminalchatrobot.py
-terminalchatrobot.egg-info/PKG-INFO
-terminalchatrobot.egg-info/SOURCES.txt
-terminalchatrobot.egg-info/dependency_links.txt
-terminalchatrobot.egg-info/entry_points.txt
-terminalchatrobot.egg-info/requires.txt
-terminalchatrobot.egg-info/top_level.txt

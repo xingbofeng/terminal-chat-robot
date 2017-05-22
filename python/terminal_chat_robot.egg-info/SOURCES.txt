@@ -1,0 +1,16 @@
+setup.py
+main/__init__.py
+main/main.py
+main/lib/__init__.py
+main/lib/colors/__init__.py
+main/lib/colors/colors.py
+main/lib/infos/__init__.py
+main/lib/infos/infos.py
+main/lib/robot/__init__.py
+main/lib/robot/robot.py
+terminal_chat_robot.egg-info/PKG-INFO
+terminal_chat_robot.egg-info/SOURCES.txt
+terminal_chat_robot.egg-info/dependency_links.txt
+terminal_chat_robot.egg-info/entry_points.txt
+terminal_chat_robot.egg-info/requires.txt
+terminal_chat_robot.egg-info/top_level.txt
