@@ -10,8 +10,8 @@ Thanks for [tuling123 API](http://www.tuling123.com/help/h_cent_webapi.jhtml?nav
 You should uodate your python, this project is only supported `python3`.
 ## Enjoy
 ```bash
-pip3 install terminalchatrobot
-terminalchatrobot
+pip3 install terminal-chat-robot
+terminal-chat-robot
 ```
 
 ## Screenshots
