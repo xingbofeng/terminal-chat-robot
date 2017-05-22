@@ -1,0 +1,3 @@
+[console_scripts]
+terminalchatrobot = terminalchatrobot.terminalchatrobot:main
+
