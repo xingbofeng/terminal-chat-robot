@@ -19,6 +19,13 @@ terminal-chat-robot
 tcr
 ```
 
+## Source code
+Thanks @wangning0 [#1](https://github.com/xingbofeng/terminal-chat-robot/issues/1)!
+
+* Checkout your branch to master
+* Checkout your branch to python
+* Checkout your branch to node
+
 ## Technology stack
 * python3
 * pip3

@@ -26,6 +26,11 @@ terminal-chat-robot
 tcr
 ```
 
+## 源代码
+感谢@wangning0 的[#1](https://github.com/xingbofeng/terminal-chat-robot/issues/1)！
+
+切换分支查看源代码！
+
 ## 技术栈
 * python3
 * pip3
