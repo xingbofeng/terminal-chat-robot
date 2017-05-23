@@ -1,0 +1,15 @@
+{
+  "name": "terminal-chat-robot",
+  "version": "0.1.0",
+  "description": "It's a terminal robot which can chat with you.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "tcr": "./bin/terminal-chat-robot.js",
+    "terminal-chat-robot": "./bin/terminal-chat-robot.js"
+  },
+  "author": "xingbofeng",
+  "license": "MIT"
+}
