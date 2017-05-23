@@ -1,15 +1,27 @@
 {
   "name": "terminal-chat-robot",
-  "version": "0.1.0",
+  "version": "1.0.4",
   "description": "It's a terminal robot which can chat with you.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bin/tcr"
   },
+  "keywords": [
+    "chat",
+    "robot"
+  ],
   "bin": {
-    "tcr": "./bin/terminal-chat-robot.js",
-    "terminal-chat-robot": "./bin/terminal-chat-robot.js"
+    "tcr": "./bin/tcr",
+    "terminal-chat-robot": "./bin/tcr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xingbofeng/terminal-chat-robot.git"
   },
   "author": "xingbofeng",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "request": "^2.81.0"
+  }
 }
