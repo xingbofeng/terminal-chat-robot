@@ -1,16 +1,9 @@
 # terminal-chat-robot
-[![npm-url](https://npmjs.org/package/terminal-chat-robot)](https://github.com/xingbofeng/terminal-chat-robot)
 [![downloads-image](http://img.shields.io/npm/dm/terminal-chat-robot.svg)](https://github.com/xingbofeng/terminal-chat-robot)
-[![npm-image](http://img.shields.io/npm/v/terminal-chat-robot.svg)](https://github.com/xingbofeng/terminal-chat-robot)
-[![pip-url](http://badge.fury.io/py/terminal-chat-robot)](https://github.com/xingbofeng/terminal-chat-robot)
 [![pip-image](https://badge.fury.io/py/terminal-chat-robot.svg)](https://github.com/xingbofeng/terminal-chat-robot)
-[![travis-url](https://travis-ci.org/xingbofeng/terminal-chat-robot)](https://github.com/xingbofeng/terminal-chat-robot)
 [![travis-image](http://img.shields.io/travis/xingbofeng/terminal-chat-robot.svg)](https://github.com/xingbofeng/terminal-chat-robot)
 [![appveyor-image](https://ci.appveyor.com/api/projects/status/bsu9w9ar8pboc2nj?svg=true)](https://github.com/xingbofeng/terminal-chat-robot)
-[![appveyor-url](https://ci.appveyor.com/project/xingbofeng/terminal-chat-robot)](https://github.com/xingbofeng/terminal-chat-robot)
 [![codeship-image](https://codeship.com/projects/79da7240-5481-0132-ea32-42ab35009c21/status)](https://github.com/xingbofeng/terminal-chat-robot)
-[![codeship-url](https://codeship.com/projects/49203)](https://github.com/xingbofeng/terminal-chat-robot)
-[![david-dm-url](https://david-dm.org/xingbofeng/terminal-chat-robot)](https://github.com/xingbofeng/terminal-chat-robot)
 [![david-dm-image](https://david-dm.org/xingbofeng/terminal-chat-robot.svg)](https://github.com/xingbofeng/terminal-chat-robot)
 
 简易的终端聊天机器人。具有`Python3`版本与`Node.js`版本。
